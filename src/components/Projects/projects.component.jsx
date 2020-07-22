@@ -16,28 +16,28 @@ class Projects extends React.Component {
     react: [
       {
         id: 1,
-        img: "/images/react-1.png",
+        img: "/images/react-1.jpg",
         url: "https://soltan-shop.herokuapp.com/",
         alt: "clothing shop",
         height: "165px",
       },
       {
         id: 2,
-        img: "/images/react-2.png",
+        img: "/images/react-2.jpg",
         url: "https://egypt-guide.herokuapp.com/",
         alt: "Egypt Guide",
         height: "165px",
       },
       {
         id: 3,
-        img: "/images/react-3.png",
+        img: "/images/react-3.jpg",
         url: "https://find-image.netlify.app",
         alt: "image search",
         height: "165px",
       },
       {
         id: 4,
-        img: "/images/react-4.png",
+        img: "/images/react-4.jpg",
         url: "https://get-city-weather.netlify.app",
         alt: "Get weather",
         height: "165px",
@@ -46,14 +46,14 @@ class Projects extends React.Component {
     js: [
       {
         id: 5,
-        img: "/images/js-1.png",
+        img: "/images/js-1.jpg",
         url: "https://nice-game.netlify.app",
         alt: "Nice game",
         height: "165px",
       },
       {
         id: 6,
-        img: "/images/js-2.png",
+        img: "/images/js-2.jpg",
         url: "https://nice-budget.netlify.app",
         alt: "Nice budget",
         height: "165px",
@@ -62,14 +62,14 @@ class Projects extends React.Component {
     temp: [
       {
         id: 7,
-        img: "/images/temp1.png",
+        img: "/images/temp1.jpg",
         url: "https://soltanlaster.netlify.app",
         alt: "Laster site",
         height: "165px",
       },
       {
         id: 8,
-        img: "/images/temp2.png",
+        img: "/images/temp2.jpg",
         url: "https://soltanconstruction.netlify.app",
         alt: "Construction site",
         height: "165px",

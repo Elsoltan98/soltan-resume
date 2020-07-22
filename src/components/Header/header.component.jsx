@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <CustomNavbar collapseOnSelect expand="md" className="sticky-top">
       <Link to="/">
-        <LogoImage src="images/logo.png" alt="My logo" />
+        <LogoImage src="images/logo.jpg" alt="My logo" />
       </Link>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
