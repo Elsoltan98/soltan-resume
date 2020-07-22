@@ -77,10 +77,6 @@ class Projects extends React.Component {
     ],
   };
 
-  componentDidMount() {
-    console.log(this.state.react.map((el) => el.alt));
-  }
-
   render() {
     return (
       <div id="projects" style={{ paddingBottom: "70px" }}>
