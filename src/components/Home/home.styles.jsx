@@ -18,6 +18,7 @@ export const Overlay = styled.div`
   justify-content: center;
   text-align: center;
   flex-direction: column;
+  padding: 0 20px;
 `;
 
 export const MyImg = styled.img`
@@ -31,7 +32,7 @@ export const H1Style = styled.h1`
   font-size: 27px;
   background-color: rgba(255, 255, 255, 0.9);
   padding: 10px 20px;
-  width: 380px;
+
   margin: 0 auto 15px;
 `;
 

@@ -24,16 +24,16 @@ const Home = () => {
                 alt="personal"
               />
             </div>
-            <H1Style>Abdelhameed Mohamed</H1Style>
-            <H2Style>
-              <Typed
-                strings={["Front End Developer"]}
-                typeSpeed={80}
-                backSpeed={80}
-                loop
-              />
-            </H2Style>
           </Container>
+          <H1Style>Abdelhameed Mohamed</H1Style>
+          <H2Style>
+            <Typed
+              strings={["Front End Developer"]}
+              typeSpeed={80}
+              backSpeed={80}
+              loop
+            />
+          </H2Style>
         </Overlay>
       </HomeBg>
     </HomeDiv>
