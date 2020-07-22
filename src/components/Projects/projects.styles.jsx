@@ -30,6 +30,7 @@ export const ProjOverlay = styled.div`
     background-color: #747474;
     margin-right: 10px;
     color: #fff;
+    margin-top: 10px;
 
     &.active {
       color: #fff !important;
