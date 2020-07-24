@@ -18,18 +18,14 @@ class Resume extends React.Component {
         tagName: "Date of birth",
         ans: "1/11/1998",
       },
+
       {
         id: 3,
-        tagName: "Education",
-        ans: "I am still studying in the last year.",
-      },
-      {
-        id: 4,
         tagName: "Certificates",
         ans: "Web Design Diploma in Russian Cultural Center.",
       },
       {
-        id: 5,
+        id: 4,
         tagName: "Experience",
         ans:
           "I have gained experience by learning on Udemy and many other platforms.",
